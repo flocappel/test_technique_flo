@@ -1,3 +1,42 @@
+J'ai fait un notion en m^me temps pour doc l'avancé, j'ai mis un peu de lien de mes aides :)            
+
+Ressources :
+
+https://grafikart.fr/tutoriels/react-native-pokedex-2245
+
+https://merge.rocks/blog/create-react-app-vs-next-js-how-are-they-different-and-similar-in-2023
+
+https://www.youtube.com/watch?v=mLNq3SanPkk
+
+https://github.com/OpenClassrooms-Student-Center/7008001-Debutez-avec-React/blob/P2C2-Solution/src/components/Banner.js
+
+https://fr.legacy.reactjs.org/docs/forms.html
+
+Réel début du projet 18h20
+
+( framework Expo - 
+
+Télécharger Node.js
+
+Crée dossier puis ouvrir code . crée le dossier du projet avec  npx create-react-app nom_projet
+
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f3274e4-8c99-44a6-a31b-e9e17e36a837/161a63d1-38d1-480b-8355-290b018a00a0/image.png)
+
+Crée le repo sur github puis 
+
+`git init` → `git add .` → `git commit -m "Initial commit"` → `git remote add origin https://github.com/flocappel/test_technique_flo.git` → `git branch -M main`  → `git push -u origin main`
+
+Je fais le dossier components dans src → les 3 fichier pour le test : `ContactForm.js`, `CardGrid.js`, et `ClickCounter.js`
+
+## Contacts :
+
+## Cards :
+
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f3274e4-8c99-44a6-a31b-e9e17e36a837/faa21efa-7d65-4f37-ac38-a3f55e978b47/image.png)
+
+`CardGrid` utilise CSS Grid
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
